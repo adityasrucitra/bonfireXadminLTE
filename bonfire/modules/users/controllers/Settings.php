@@ -184,6 +184,11 @@ class Settings extends Admin_Controller
         Template::set('filter_type', $filterType);
         Template::set('toolbar_title', lang('us_user_management'));
 
+        // echo '<pre>';
+        // print_r($this->user_model->find_all());                         
+        // echo '</pre>';
+        // die();
+
         Template::render();
     }
 

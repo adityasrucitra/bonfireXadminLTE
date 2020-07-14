@@ -164,6 +164,7 @@ $lang['bf_model_find_error']	= 'Not enough information to find by.';
 //------------------------------------------------------------------------------
 $lang['bf_no_contexts']			= 'The contexts array is not properly setup. Check your application config file.';
 $lang['bf_context_content']		= 'Content';
+$lang['bf_context_management']  = 'Management';
 $lang['bf_context_reports']		= 'Reports';
 $lang['bf_context_settings']	= 'Settings';
 $lang['bf_context_developer']	= 'Developer';
